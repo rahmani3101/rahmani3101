@@ -7,6 +7,3 @@ You can connect with me through : https://linktr.ee/falcon.java
 
 [![An image of @rahmani3101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahmani3101)](https://holopin.io/@rahmani3101)
 
-
-🛠 Language and tools
-nodejs logo  javascript logo  typescript logo  express logo  socket.io logo  jest logo  docker logo  bash logo  golang logo  react logo  postgresql logo  redis logo  mysql logo  mongodb logo  python logo  flask logo  pytorch logo  opencv logo  neovim logo  postman logo  archlinux-logo 
