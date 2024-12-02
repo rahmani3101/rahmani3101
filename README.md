@@ -5,7 +5,7 @@ You can connect with me through : https://linktr.ee/falcon.java
 - 📫 
 
 
-[![An image of @rahmani3101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahmani3101)](https://holopin.io/@rahmani3101)
+
 
 
 
@@ -19,13 +19,14 @@ email : asadrahmani3101@gmail.com
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![c++](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![An image of @rahmani3101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahmani3101)](https://holopin.io/@rahmani3101)
 
 ## 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
