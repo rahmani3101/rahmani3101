@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm a passionate [Data science , DevOps and Cloud Technologies] with a love for [AI/Ml , Java ]. Currently [pre-final year Btech CSE Ai ] at [Techno India University], I'm dedicated to solving complex problems and creating innovative solutions. 
-email : asadrahmani3101@gmail.com
+
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
