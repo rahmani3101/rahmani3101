@@ -20,16 +20,17 @@ email : asadrahmani3101@gmail.com
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![c++](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![c++](https://img.shields.io/badge/-cpp-05122A?style=flat&logo=cpp)
+![Google Cloud](https://img.shields.io/badge/-gcp.js-05122A?style=flat&logo=gcp)
+![AWS](https://img.shields.io/badge/-aws.js-05122A?style=flat&logo=aws)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmani3101&show_icons=true&theme=radical)
 [![An image of @rahmani3101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahmani3101)](https://holopin.io/@rahmani3101)
 
 ## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmani3101&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 - [Major Achievement 1]
