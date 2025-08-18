@@ -1,7 +1,7 @@
 # Hi there! I'm Mohammad Asad Rahmani 👋
 
 ## 🚀 About Me
-I'm a passionate Data science , DevOps and Cloud Technologies with a love for AI/Ml , Java . Currently pre-final year Btech CSE AI at Techno India University, I'm dedicated to solving complex problems and creating innovative solutions. 
+I'm a passionate about Data Engineering , DevOps and Cloud Technologies with a love for AI/Ml , Java . Currently Final year Btech CSE AI at Techno India University, I'm dedicated to solving complex problems and creating innovative solutions. 
 
 
 ## 🛠️ Tech Stack
@@ -20,8 +20,8 @@ I'm a passionate Data science , DevOps and Cloud Technologies with a love for AI
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmani3101&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
-- [DevOps]
-- [SQL]
+
+- [Spark]
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-asad-rahmani-a39b57257)
