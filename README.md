@@ -11,14 +11,6 @@ I'm a passionate about Data Engineering and Cloud Technologies with a love for A
 ![AWS](https://img.shields.io/badge/-aws-05122A?style=flat&logo=aws)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmani3101&show_icons=true&theme=radical)
-[![An image of @rahmani3101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahmani3101)](https://holopin.io/@rahmani3101)
-
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmani3101&layout=compact&theme=radical)
-
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahmani3101)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/rahmani__asad)
