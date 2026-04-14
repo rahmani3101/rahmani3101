@@ -1,13 +1,12 @@
 # Hi there! I'm Mohammad Asad Rahmani 👋
 
 ## 🚀 About Me
-I'm a passionate about Data Engineering , DevOps and Cloud Technologies with a love for AI/Ml , Java . Currently Final year Btech CSE AI at Techno India University, I'm dedicated to solving complex problems and creating innovative solutions. 
+I'm a passionate about Data Engineering and Cloud Technologies with a love for AI/Ml , Java . Currently Final year Btech CSE AI at Techno India University, I'm dedicated to solving complex problems and creating innovative solutions. 
 
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![c++](https://img.shields.io/badge/-cpp-05122A?style=flat&logo=cpp)
 ![Google Cloud](https://img.shields.io/badge/-gcp-05122A?style=flat&logo=gcp)
 ![AWS](https://img.shields.io/badge/-aws-05122A?style=flat&logo=aws)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
