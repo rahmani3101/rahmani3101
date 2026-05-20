@@ -163,6 +163,4 @@ Foundations        →  ETL / ELT          →  Cloud Native       →  Advanced
 
 **"Data is the new oil — I'm here to refine it."**
 
-⭐ *If you find my work interesting, consider giving a star!*
-
 </div>
