@@ -25,13 +25,13 @@
 class DataEngineer:
     def __init__(self):
         self.name        = "Mohammad Asad Rahmani"
-        self.role        = "Fresher | Data Engineer & Cloud Engineer"
+        self.role        = "Data Engineer"
         self.education   = "B.Tech CSE (AI/ML) — Techno India University, Kolkata"
-        self.cgpa        = 7.96
+        self.cgpa        = 8.12
         self.graduating  = "May 2026"
         self.location    = "Kolkata, India"
         self.open_to     = ["Data Engineering", "Cloud Engineering", "ETL Development"]
-        self.cities      = ["Kolkata", "Hyderabad", "Mumbai"]
+        self.cities      = ["Kolkata", "Mumbai"]
 
     def current_focus(self):
         return [
@@ -111,7 +111,6 @@ Built end-to-end ML pipeline for healthcare outcome prediction achieving **94% a
 |---|---|
 | 🎯 **Google Cloud Arcade Facilitator** | Mentored **750+ students** through GCP hands-on labs & certifications |
 | 🎓 **B.Tech CSE (AI/ML)** | CGPA **7.96** — Techno India University, Kolkata (2022–2026) |
-| 💡 **Teaching Experience** | 4+ years teaching CS & AI/ML at Tution Point coaching centre |
 | ☁️ **GCP Certified** | Google Cloud Platform hands-on practitioner |
 
 ---
